@@ -3,4 +3,4 @@
 Hey this my awesome project.
 
 - I do a thing
-- I ate a cupcake.  stud muffin, beer batter frosting with a candied piece of bacon.  
+- I love to lindy hop
