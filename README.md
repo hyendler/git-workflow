@@ -2,5 +2,5 @@
 
 Hey this my awesome project.
 
-- I do a thing
-- this is a thing
+- we love git
+- I totes geek all week for EVAH
