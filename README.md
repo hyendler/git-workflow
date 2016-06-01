@@ -3,4 +3,8 @@
 Hey this my awesome project.
 
 - I do a thing
-- this is a thing
+- don't change things
+- it doesn't work
+- it made sense
+- debatable
+- who reads these???
