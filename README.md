@@ -7,10 +7,8 @@ Hey this my awesome project.
 - I totes geek all week for EVAH
 - I do a thing
 - don't change things
-- it doesn't work
-- it made sense
-- debatable
-- who reads these???
-- HELLOOOOOOOO
+- do somethings
+- Sam and Michelle are the best
+- woohoo
 
 
