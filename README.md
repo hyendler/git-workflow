@@ -13,6 +13,13 @@ Hey this my awesome project.
 - we should sleep
 - yoda and yoga
 - soul cycle
+- food
+- I love dogs
+- yay
+- sleep
+- tired
+- creepy costumes
+
 
 
 
