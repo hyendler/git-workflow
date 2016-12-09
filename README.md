@@ -2,23 +2,11 @@
 
 Hey this my awesome project.
 
+- bring your umbrella tomorrow
+- iron man snacks too much
+- my head hurts
+- i'm singing in the rain
 
-- we love git
-- I totes geek all week for EVAH
-- I do a thing
-- don't change things
-- I like change
-- sometimes
-- the only thing constant is change
-- we should sleep
-- yoda and yoga
-- soul cycle
-- food
-- I love dogs
-- yay
-- sleep
-- tired
-- creepy costumes
 
 
 
