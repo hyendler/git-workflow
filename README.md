@@ -1,19 +1,14 @@
 # git-workflow
 
-Hey this my awesome project.
+HELLO
+TABLES
+STRAWBERRIES
+GIT WORKFLOW IS AWESOME
+R2D2 is silly
+BB8 all the way
+BANANAS
+APPLE
 
-- go warriors!!!
-- burritos!
-- not have had dinner
-- FOOD
-- get some exercise
-- walk with some food
-- chew vigorously
-- pick up the phone
-- first thing that comes to my mind
-- refrigerator
-- no spell check in sublime!
-- sublime spellcheck necessary
 
 
 
